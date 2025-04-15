@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ✨ Hey yall, I'm @brianna-rawlings !!
 - 💻 I'm a junior at Taylor University studying Computer Science
 - 📊 I have interests in Digital Media, Web Development, Data Science/Analytics, and Sports
-- 🌱 I am currently working on a project, where I am on the front end team !
+- 🌱 I am currently working on a project, where I involved with the front end team !
 - 📫 How to reach me:
         gmail: brianna_rawlings@taylor.edu or brawlingskeeper@gmail.com
         linkedin: https://www.linkedin.com/in/brianna-rawlings/
