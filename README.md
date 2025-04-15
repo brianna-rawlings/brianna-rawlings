@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **brianna-rawlings/brianna-rawlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- ✨ Hey yall, I'm @brianna-rawlings !!
+- 💻 I'm a junior at Taylor University studying Computer Science
+- 📊 I have interests in Digital Media, Web Development, Data Science/Analytics, and Sports
+- 🌱 I am currently working on a project, where I am on the front end team !
+- 📫 How to reach me:
+        gmail: brianna_rawlings@taylor.edu or brawlingskeeper@gmail.com
+        linkedin: https://www.linkedin.com/in/brianna-rawlings/
