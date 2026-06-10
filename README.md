@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 
 - ✨ Hey yall, I'm @brianna-rawlings !!
-- 💻 I will be a senior this fall at Taylor University studying Computer Science - Digital Media/Systems and Data Science
-- 📊 I have interests in Digital Media, Web Development, Data Science/Analytics, and Sports
+- 💻 I just graduated from Taylor University where I recieved a Bachelor's of Science in Computer Science - Digital Media/Systems and Data Science
+- 📊 I have interests in Digital Media, Web Development, UI/UX, product, Data Science/Analytics, and Sports
 - 🌱 I am currently working on a few personal projects!
 - 📫 How to reach me:
-        gmail: brianna_rawlings@taylor.edu or brawlingskeeper@gmail.com
+        gmail: brawlingskeeper@gmail.com
         linkedin: https://www.linkedin.com/in/brianna-rawlings/
